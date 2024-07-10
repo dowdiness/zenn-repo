@@ -1,0 +1,8 @@
+title: "Reconstructing TypeScript"
+summary: "[TAPL.ts](https://taplts.connpass.com/)という勉強会にて、型システムの再構築をするチュートリアルであるReconstructing TypeScriptブログシリーズを通読しました。\n
+原文: https://jaked.org/blog/index"
+topics: [typescript, 型システム]
+published: false
+price: 0
+chapters:
+  - 0-rt-intro # intro
