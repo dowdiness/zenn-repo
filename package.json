@@ -4,6 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "zenn": "zenn",
+    "zenn:preview": "zenn preview",
+    "zenn:build": "zenn build",
+    "zenn:deploy": "zenn deploy",
+    "zenn:deploy:preview": "zenn deploy --preview",
+    "zenn:deploy:force": "zenn deploy --force",
+    "zenn:deploy:force:preview": "zenn deploy --force --preview",
+    "zenn:deploy:force:preview:dry-run": "zenn deploy --force --preview --dry-run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

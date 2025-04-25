@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "ラムダ計算のコンパイル",
+      "path": "Compiler/ラムダ計算のコンパイル.md"
+    },
+    {
+      "basename": "ソフトウェアアーキテクチャの基礎",
+      "path": "Architecture/ソフトウェアアーキテクチャの基礎.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/MIT/Mathematics for Computer Science/index.md"
+    },
+    {
+      "basename": "Obsidian Git",
+      "path": "Cheat sheet/Obsidian/Plugins/Obsidian Git.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Cheat sheet/Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "参考になるブログ",
+      "path": "Blog/参考になるブログ.md"
+    },
+    {
+      "basename": "2025-04-25-Friday",
+      "path": "Daily Notes/2025/04/2025-04-25-Friday.md"
+    },
+    {
+      "basename": "TaskList",
+      "path": "Daily Notes/2025/04/TaskList.md"
+    },
+    {
+      "basename": "プログラミングの基礎",
+      "path": "PL/Ocaml/プログラミングの基礎/プログラミングの基礎.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "Cheat sheet/Markdown.md"
+    },
+    {
+      "basename": "Realizability",
+      "path": "PL/Realizability.md"
+    },
+    {
+      "basename": "menhir",
+      "path": "PL/menhir.md"
+    },
+    {
+      "basename": "Base",
+      "path": "_Template/Templater/Base.md"
+    },
+    {
+      "basename": "+Daily Notes",
+      "path": "Daily Notes/2025/04/+Daily Notes.md"
+    },
+    {
+      "basename": "Zenn",
+      "path": "_Template/Templater/Zenn.md"
+    },
+    {
+      "basename": "01_daily-note",
+      "path": "_Template/01_daily-note.md"
+    },
+    {
+      "basename": "2025-04-24-Thursday",
+      "path": "Daily Notes/2025/04/2025-04-24-Thursday.md"
+    },
+    {
+      "basename": "リスト",
+      "path": "PL/Ocaml/プログラミングの基礎/リスト.md"
+    },
+    {
+      "basename": "α-conversion",
+      "path": "Compiler/Middleend/α-conversion.md"
+    },
+    {
+      "basename": "Closure",
+      "path": "Compiler/Closure.md"
+    },
+    {
+      "basename": "Call-by-Push-Value",
+      "path": "Compiler/Call-by-Push-Value.md"
+    },
+    {
+      "basename": "A-normal form",
+      "path": "Compiler/Middleend/Intermediate representation/A-normal form.md"
+    },
+    {
+      "basename": "Algebraic Effects",
+      "path": "Compiler/Algebraic Effects.md"
+    },
+    {
+      "basename": "2025-04-21-Monday",
+      "path": "Daily Notes/2025/04/2025-04-21-Monday.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Distributed Systems/index.md"
+    },
+    {
+      "basename": "Key Event",
+      "path": "自作アプリ/Key Event.md"
+    },
+    {
+      "basename": "Domain Theory",
+      "path": "Theory/Math/Domain Theory.md"
+    },
+    {
+      "basename": "Tagless Final",
+      "path": "Compiler/Tagless Final.md"
+    },
+    {
+      "basename": "静的スコープと動的スコープ",
+      "path": "Compiler/静的スコープと動的スコープ.md"
+    },
+    {
+      "basename": "評価戦略",
+      "path": "Compiler/評価戦略.md"
+    },
+    {
+      "basename": "OOP",
+      "path": "Compiler/OOP.md"
+    },
+    {
+      "basename": "Computer Science And Recursion Theory",
+      "path": "Theory/Computer Science And Recursion Theory.md"
+    },
+    {
+      "basename": "Elixir",
+      "path": "Compiler/LangSpecific/Elixir.md"
+    },
+    {
+      "basename": "Compiler optimization",
+      "path": "Compiler/Middleend/Compiler optimization.md"
+    },
+    {
+      "basename": "A Few Principles of Macro Design",
+      "path": "Compiler/A Few Principles of Macro Design.md"
+    },
+    {
+      "basename": "資料",
+      "path": "Compiler/LangSpecific/WASM/資料.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "Compiler/LangSpecific/Haskell/Compiler.md"
+    },
+    {
+      "basename": "Crafting Interpreters",
+      "path": "Compiler/Books/Crafting Interpreters.md"
+    },
+    {
+      "basename": "Writing an interpreter in Go",
+      "path": "Compiler/Books/Writing an interpreter in Go.md"
+    },
+    {
+      "basename": "Modern compiler implementation in ML",
+      "path": "Compiler/Books/Modern compiler implementation in ML.md"
+    },
+    {
+      "basename": "2025-04-19-Saturday",
+      "path": "Daily Notes/2025/04/2025-04-19-Saturday.md"
+    },
+    {
+      "basename": "Reconstructing TypeScript 英語",
+      "path": "zenn/books/Reconstructing TypeScript/Reconstructing TypeScript 英語.md"
+    },
+    {
+      "basename": "TypeScriptにResult型を提供するライブラリとしてのReScriptの可能性",
+      "path": "PL/ReScript/TypeScriptにResult型を提供するライブラリとしてのReScriptの可能性.md"
+    },
+    {
+      "basename": "型とテストの役割は違いますよ",
+      "path": "Blog/型とテストの役割は違いますよ.md"
+    },
+    {
+      "basename": "20240529-Reconstructing TypeScript-wUXPRoCsl",
+      "path": "InkDrop/記事/翻訳/20240529-Reconstructing TypeScript-wUXPRoCsl.md"
+    },
+    {
+      "basename": "20240218-TypeScript 注意-GTlVXTZjj",
+      "path": "InkDrop/開発/技術メモ書き/20240218-TypeScript 注意-GTlVXTZjj.md"
+    },
+    {
+      "basename": "20240205-都道府県別ユーザー一覧の追加　メモ-d-wKfeHcD",
+      "path": "InkDrop/開発/イシューメモ/20240205-都道府県別ユーザー一覧の追加　メモ-d-wKfeHcD.md"
+    },
+    {
+      "basename": "20230726-TypeScriptを使っていてResult型が欲しくなったときにはReScriptを使うのが良いかもしれない-IVl6kwQQk",
+      "path": "InkDrop/開発/20230726-TypeScriptを使っていてResult型が欲しくなったときにはReScriptを使うのが良いかもしれない-IVl6kwQQk.md"
+    },
+    {
+      "basename": "20221123-知るのって難しい-UjmhFgmWy",
+      "path": "InkDrop/メモ/20221123-知るのって難しい-UjmhFgmWy.md"
+    },
+    {
+      "basename": "20220606-グループコーチング-3hR3q9uDrf",
+      "path": "InkDrop/メモ/グループコーチング/20220606-グループコーチング-3hR3q9uDrf.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Diary/2025",
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "userIgnoreFilters": [
+    "node_modules/"
+  ]
+}
