@@ -193,8 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "611e973ead2bcd27",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "books/rts/rt-readme.md",
+    "books/rts/Reconstructing TypeScript 補足.md",
+    "books/rts/Reconstructing TypeScript 英語.md",
     "Tags"
   ]
 }
