@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "node_modules"
-              },
-              "icon": "lucide-file",
-              "title": "node_modules"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "611e973ead2bcd27",
+            "id": "9a51108af0102bd7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
